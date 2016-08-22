@@ -1,0 +1,14 @@
+layout_spectrum: 0.4626084
+typography_spectrum: 0.5915325
+color:
+  saturation: 0.7178421
+  lightness: 0.4881461
+  brandStrength: 0.7281683
+  rhythmicContrast: 0.2373731
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: BobWilliams
